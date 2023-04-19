@@ -9,4 +9,3 @@ streamlit==1.10.0
 requires.io==0.2.6
 urllib3==1.26.15
 temp==2020.7.2
-echo "backend: TkAgg" >> ~/.matplotlib/matplotlibrc
